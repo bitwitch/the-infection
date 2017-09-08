@@ -1,0 +1,1 @@
+This is a CLI simulation of viral epidemics. 
